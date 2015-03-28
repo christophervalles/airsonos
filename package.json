@@ -23,10 +23,10 @@
     "ip": "0.3.2",
     "lodash": "~2.4.1",
     "nicercast": "0.0.8",
-    "nodetunes": "0.1.2",
     "portastic": "0.0.1",
     "sonos": "git://github.com/stephen/node-sonos.git#stephen-1.0.0",
-    "throttle": "~1.0.3"
+    "throttle": "~1.0.3",
+    "alsa": "~0.0.2"
   },
   "license": "MIT"
 }
